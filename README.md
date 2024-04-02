@@ -6,9 +6,6 @@ The **ANTHROPIC-TOOLS** package is a basic utility designed to simplify the usag
 
 To install **ANTHROPIC-TOOLS**, follow these steps:
 
-- Using npm:
-  ```bash
-  npm install ANTHROPIC-TOOLS
   ```
 
 - Using Github:
