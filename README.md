@@ -7,9 +7,6 @@ The **ANTHROPIC-TOOLS** package is a basic utility designed to simplify the usag
 To install **ANTHROPIC-TOOLS**, follow these steps:
 
   ```
-
-- Using Github:
-  ```bash
   git clone ANTHROPIC-TOOLS
   ```
 
