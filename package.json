@@ -1,0 +1,40 @@
+{
+  "name": "anthropic-tools",
+  "version": "1.0.0",
+  "description": "The ANTHROPIC-TOOLS package is a basic utility designed to simplify the usage and integration of tools within the ANTHROPIC AI SDK. It's open source ��, allowing everyone to contribute and improve its functionality.",
+  "main": "anthropicToolHelper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadHarrisBin/ANTHROPIC-TOOLS.git"
+  },
+  "keywords": [
+    "ANTHROPIC",
+    "sdk",
+    "Content",
+    "generation",
+    "Tool",
+    "integration",
+    "Open",
+    "source",
+    "Utility",
+    "NLP",
+    "(Natural",
+    "Language",
+    "Processing)",
+    "Text",
+    "generation",
+    "Developer",
+    "tools",
+    "JavaScript",
+    "library"
+  ],
+  "author": "Harrishero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadHarrisBin/ANTHROPIC-TOOLS/issues"
+  },
+  "homepage": "https://github.com/mohammadHarrisBin/ANTHROPIC-TOOLS#readme"
+}
